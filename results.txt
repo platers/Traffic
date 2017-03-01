@@ -1,0 +1,47 @@
+0.007
+Short cycle - 15 seconds
+Average CO2 - 67000
+Average # cars waiting - 18
+
+Speed only - 15
+65000
+15
+
+Speed and change
+67370
+17
+
+Speed sqaured
+66274
+17
+
+Everything
+67100
+17
+
+Speed and CO2 - e *= .9998
+64000
+15
+
+0.009 chance of car
+
+Short cycle
+84000
+30
+
+Speed and CO2
+80000
+26
+
+Dynamic traffic
+Speed and CO2
+61000
+14
+
+Short cycle
+64000
+16
+
+No induction loops
+62000
+15

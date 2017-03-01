@@ -1,0 +1,21 @@
+<additional>
+	<inductionLoop id="0" lane="10_0" pos="100" freq="30" file="cross.out"/>
+	<inductionLoop id="1" lane="30_0" pos="100" freq="30" file="cross.out"/>
+	<inductionLoop id="2" lane="0i_0" pos="350" freq="30" file="cross.out"/>
+	<inductionLoop id="3" lane="1i_0" pos="350" freq="30" file="cross.out"/>
+
+	<inductionLoop id="4" lane="3i_0" pos="350" freq="30" file="cross.out"/>
+	<inductionLoop id="5" lane="21_0" pos="100" freq="30" file="cross.out"/>
+	<inductionLoop id="6" lane="01_0" pos="100" freq="30" file="cross.out"/>
+	<inductionLoop id="7" lane="2i_0" pos="350" freq="30" file="cross.out"/>
+
+	<inductionLoop id="8" lane="4i_0" pos="350" freq="30" file="cross.out"/>
+	<inductionLoop id="9" lane="5i_0" pos="350" freq="30" file="cross.out"/>
+	<inductionLoop id="10" lane="32_0" pos="100" freq="30" file="cross.out"/>
+	<inductionLoop id="11" lane="12_0" pos="100" freq="30" file="cross.out"/>
+
+	<inductionLoop id="12" lane="23_0" pos="100" freq="30" file="cross.out"/>
+	<inductionLoop id="13" lane="6i_0" pos="350" freq="30" file="cross.out"/>
+	<inductionLoop id="14" lane="7i_0" pos="350" freq="30" file="cross.out"/>
+	<inductionLoop id="15" lane="03_0" pos="100" freq="30" file="cross.out"/>
+</additional>
